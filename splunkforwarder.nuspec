@@ -5,7 +5,7 @@
     <id>splunk-universalforwarder</id>
     <packageSourceUrl>https://github.com/dagryph/chocolatey-splunkforwarder</packageSourceUrl>
     <title>Splunk Universal Forwarder</title>
-    <version>7.2.3</version>
+    <version>7.3.0</version>
     <authors>Splunk, Inc</authors>
     <owners>Jeffrey Bernt</owners>
     <summary>Splunk Universal Forwarder</summary>
@@ -22,7 +22,7 @@
     <projectUrl>http://www.splunk.com</projectUrl>
     <docsUrl>http://docs.splunk.com/Documentation/Splunk/latest/Admin/DeployingSplunkonWindows</docsUrl>
     <projectSourceUrl>https://github.com/dagryph/chocolatey-splunkforwarder</projectSourceUrl>
-    <releaseNotes>http://docs.splunk.com/Documentation/Forwarder/7.1.1/Forwarder/Fixedissues</releaseNotes>
+    <releaseNotes>http://docs.splunk.com/Documentation/Forwarder/7.3.0/Forwarder/Fixedissues</releaseNotes>
     <tags>splunkforwarder admin</tags>
     <copyright>Splunk, Inc</copyright>
     <licenseUrl>http://www.splunk.com/en_us/legal/splunk-software-license-agreement.html</licenseUrl>
